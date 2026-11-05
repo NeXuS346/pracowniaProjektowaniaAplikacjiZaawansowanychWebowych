@@ -18,8 +18,7 @@ class TodoEntry {
         <button class ="btn btn-danger">${this.isDone}</button>
         </div>
        `
-
-
-
     }
 }
+
+export default TodoEntry;
